@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rictadotio
-- 👀 This is the official account of Ricta Technologies Srl (www.ricta.io)
-We are a software development company specialised in Web browser solutions with vertical product related to Web Forensics, Open Source Intelligence and Enterprise Web Security Solutions.
+- 👀 Welcome to the official GitHub account of Ricta Technologies Srl (www.ricta.io). We specialize in developing cutting-edge cross-platform desktop and web browser solutions, with expertise in Web Forensics, Open Source Intelligence (OSINT), and Enterprise Cyber Security.
 - 📫 You can contact us at info-github@ricta.io
 
 <!---
